@@ -4,6 +4,10 @@ Basic personal project
 Disclaimer:<br>
 The phrase "various bug fixes" is a catch all for changes I forgot, and it may not include any alterations.
 
+5/02/21 Update:<br>
+Pause menu added: Options are resume, restart, title screen, and quit.
+The first spider cycle has been slighlty modified to prevent clipping.
+
 4/27/21 Update:<br>
 Quick reset added: While paused press enter on the keyboard or select on an Xbox controller.<br>
 Cut scenes are now skipable from the Xbox controller by pressing 'A'.
